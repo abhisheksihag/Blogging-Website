@@ -1,1 +1,1 @@
-This is blogging application built using React and Firebase.
+This is a blogging application built using React and Firebase.
